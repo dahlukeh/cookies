@@ -1,0 +1,1 @@
+java -classpath ..\obj; andrew.cookies.game.tests
